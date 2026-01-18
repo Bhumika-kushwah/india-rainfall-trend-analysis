@@ -1,12 +1,12 @@
-🌧️ Analysis and Visualization of Long-Term Rainfall Trends in India
-📌 Project Overview
+**🌧️ Analysis and Visualization of Long-Term Rainfall Trends in India**
+**📌 Project Overview**
 
 This project presents an end-to-end data analysis pipeline for studying long-term rainfall patterns in India using historical data. The analysis focuses on temporal trends, seasonal variability, regional differences, extreme rainfall events, and forecasting, following methodologies commonly used in climate and remote sensing research.
 
 The project is designed in alignment with research practices relevant to
 Indian Space Research Organisation (ISRO), particularly in climate and geospatial data analysis.
-
-🎯 Objectives
+**
+**🎯 Objectives****
 
 Analyze long-term rainfall trends across India
 
@@ -20,7 +20,8 @@ Forecast future rainfall using time-series models
 
 Visualize spatial rainfall distribution using interactive dashboards
 
-📂 Dataset
+
+**📂 Dataset**
 
 Name: IMD Subdivision-wise Rainfall Data (1901–2015)
 
@@ -34,7 +35,7 @@ Coverage: Indian meteorological subdivisions
 
 Note: Publicly available government data was used for academic and research purposes.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Python – Data cleaning and preprocessing
 
@@ -42,7 +43,7 @@ R – Statistical analysis and time-series modeling
 
 Power BI – Interactive dashboards and geospatial visualization
 
-🔄 Project Workflow
+**🔄 Project Workflow**
 Raw IMD Dataset
       ↓
 Python Data Cleaning & Reshaping
@@ -51,7 +52,8 @@ R Statistical Analysis & Forecasting
       ↓
 Power BI Visualization & Dashboard
 
-📊 Statistical Methods Used
+
+**📊 Statistical Methods Used**
 
 Descriptive statistics (mean, median, variance, standard deviation)
 
@@ -67,7 +69,7 @@ Mann–Kendall non-parametric trend test
 
 Time-series modeling using ARIMA
 
-📈 Key Insights
+**📈 Key Insights**
 
 Rainfall in India exhibits high inter-annual variability
 
@@ -79,7 +81,7 @@ Increasing occurrence of extreme rainfall events in recent decades
 
 Forecasting results indicate continued rainfall variability
 
-🗺️ Dashboard Highlights (Power BI)
+**🗺️ Dashboard Highlights (Power BI)**
 
 State-wise average rainfall (Filled Map)
 
@@ -89,7 +91,7 @@ Monthly and seasonal rainfall analysis
 
 Interactive slicers for year, month, and region
 
-📁 Repository Structure
+**📁 Repository Structure**
 📦 Rainfall-Analysis-India
  ┣ 📂 data
  
@@ -110,13 +112,8 @@ Interactive slicers for year, month, and region
  
  ┗ README.md
 
-📄 Project Report
 
-A detailed ISRO-style project report is available in PDF format:
-
-📎 ISRO_Rainfall_Data_Analysis_Project_Report.pdf
-
-🚀 Future Scope
+**🚀 Future Scope**
 
 Integration of satellite-based rainfall datasets (GPM/TRMM)
 
@@ -126,15 +123,13 @@ GIS-based high-resolution spatial analysis
 
 Climate change impact assessment
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Bhumika Kushwah
 B.Tech – Computer Science (AIML)
 Aspiring Data Analyst | Climate & Geospatial Data Enthusiast
 
-🔗 GitHub | 🔗 LinkedIn
-
-📜 License
+**📜 License**
 
 This project is for educational and research purposes only.
 Dataset credits belong to the India Meteorological Department (IMD).
