@@ -92,15 +92,22 @@ Interactive slicers for year, month, and region
 📁 Repository Structure
 📦 Rainfall-Analysis-India
  ┣ 📂 data
+ 
  ┃ ┗ imd_rainfall_clean.csv
+ 
  ┣ 📂 python
+ 
  ┃ ┗ data_cleaning.ipynb
  ┣ 📂 r
+ 
  ┃ ┗ statistical_analysis.R
  ┣ 📂 powerbi
+ 
  ┃ ┗ rainfall_dashboard.pbix
  ┣ 📂 report
+ 
  ┃ ┗ ISRO_Rainfall_Data_Analysis_Project_Report.pdf
+ 
  ┗ README.md
 
 📄 Project Report
