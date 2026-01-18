@@ -1,11 +1,12 @@
 **🌧️ Analysis and Visualization of Long-Term Rainfall Trends in India**
-**📌 Project Overview**
+##📌 Project Overview
 
 This project presents an end-to-end data analysis pipeline for studying long-term rainfall patterns in India using historical data. The analysis focuses on temporal trends, seasonal variability, regional differences, extreme rainfall events, and forecasting, following methodologies commonly used in climate and remote sensing research.
 
 The project is designed in alignment with research practices relevant to
 Indian Space Research Organisation (ISRO), particularly in climate and geospatial data analysis.
-**
+
+
 **🎯 Objectives****
 
 Analyze long-term rainfall trends across India
