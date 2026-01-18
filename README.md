@@ -103,6 +103,11 @@ Interactive slicers for year, month, and region
  ┃ ┗ ISRO_Rainfall_Data_Analysis_Project_Report.pdf
  ┗ README.md
 
+📄 Project Report
+
+A detailed ISRO-style project report is available in PDF format:
+
+📎 ISRO_Rainfall_Data_Analysis_Project_Report.pdf
 
 🚀 Future Scope
 
